@@ -1,4 +1,4 @@
-🧪 BETALAB
+## BETALAB
 Building Energy • Urban Systems • Simulation
 <p align="center">
   <img src="images/ieq.jpg" width="30%" />
@@ -15,23 +15,30 @@ HVAC + Renewable Integration
 Simulation-driven decision making
 
 ---
-🏠 Indoor Environmental Quality
+### 🏠 Indoor Environmental Quality
 Thermal comfort
 Air quality
 Visual + acoustic environments
 Human-centric measurements (in-situ)
 
 ---
-🔥 Energy Efficiency in Buildings
+### 🔥 Energy Efficiency in Buildings
 Envelope optimization
 HVAC systems modeling
 Heat pumps & radiant systems
 Field measurements + simulation coupling
 
 ---
-🌆 Urban Energy Systems
+### 🌆 Urban Energy Systems
 District-scale modeling
 Outdoor climate modeling
 Energy demand aggregation
 System interactions
+
+---
+### 🔊 Applied Acoustics & Sound Quality
+- Environmental noise analysis
+- Sound propagation in urban environments
+- Indoor acoustic comfort
+- Noise mitigation strategies & policies
 
