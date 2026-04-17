@@ -5,34 +5,27 @@ Building Energy • Urban Systems • Simulation
   <img src="betalab_core-care_002-scaled.jpg" width="30%" />
 </p>
 
----
-We design, model, and analyze energy systems at building and urban scale.
-Indoor Environmental Quality (IEQ)
-Building Energy Performance
-Urban Energy Systems
-HVAC + Renewable Integration
-Simulation-driven decision making
 
 ---
 ### 🏠 Indoor Environmental Quality
-Thermal comfort
-Air quality
-Visual + acoustic environments
-Human-centric measurements
+- Thermal comfort
+- Air quality
+- Visual + acoustic environments
+- Human-centric measurements
 
 ---
 ### 🔥 Energy Efficiency in Buildings
-Envelope optimization
-HVAC systems modeling
-Heat pumps & radiant systems
-Field measurements + simulation coupling
+- Envelope optimization
+- HVAC systems modeling
+- Heat pumps & radiant systems
+- Field measurements + simulation coupling
 
 ---
 ### 🌆 Urban Energy Systems
-District-scale modeling
-Outdoor climate modeling
-Energy demand aggregation
-System interactions
+- District-scale modeling
+- Outdoor climate modeling
+- Energy demand aggregation
+- System interactions
 
 ---
 ### 🔊 Applied Acoustics & Sound Quality
