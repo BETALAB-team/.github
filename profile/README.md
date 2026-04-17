@@ -1,9 +1,9 @@
 ## BETALAB
 Building Energy • Urban Systems • Simulation
 <p align="center">
-  <img src="images/ieq.jpg" width="30%" />
-  <img src="images/hvac.jpg" width="30%" />
-  <img src="images/city.jpg" width="30%" />
+  <img src="31793632472_53f8759000_c.jpg" width="30%" />
+  <img src="5681152426_e6e2bb989e_c.jpg" width="30%" />
+  <img src="betalab_core-care_002-scaled.jpg" width="30%" />
 </p>
 
 ---
