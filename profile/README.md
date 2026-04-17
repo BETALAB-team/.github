@@ -31,16 +31,7 @@ Field measurements + simulation coupling
 ---
 🌆 Urban Energy Systems
 District-scale modeling
+Outdoor climate modeling
 Energy demand aggregation
-Grid + DHN interaction
-Scenario-based planning
+System interactions
 
----
-Tech Stack
-```yaml
-Languages:
-  - Python
-  - MATLAB
-  - C++
-  - Fortran
-```
