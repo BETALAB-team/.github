@@ -18,7 +18,7 @@ Simulation-driven decision making
 Thermal comfort
 Air quality
 Visual + acoustic environments
-Human-centric measurements (in-situ)
+Human-centric measurements
 
 ---
 ### 🔥 Energy Efficiency in Buildings
